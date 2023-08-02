@@ -1,0 +1,7 @@
+export const GET_YT_DATA_REQUEST="get_yt_data_request"
+export const GET_YT_DATA_SUCCESS="get_yt_data_success"
+export const GET_YT_DATA_FAILED="get_yt_data_failed"
+
+export const GET_YT_SEARCH_RESULT_REQUEST="get_yt_search_result_request"
+export const GET_YT_SEARCH_RESULT_SUCCESS="get_yt_search_result_success"
+export const GET_YT_SEARCH_RESULT_FAILED="get_yt_search_result_failed"
